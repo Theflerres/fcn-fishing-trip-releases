@@ -1,2 +1,3 @@
-# fcn-fishing-trip-releases
-Instalador e atualizações do FCN: Fishing Trip.
+# FCN: Fishing Trip
+
+Instalador e atualizações do jogo.
